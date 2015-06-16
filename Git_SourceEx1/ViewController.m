@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     NSLog(@"First Log In Master");
+    
+    NSLog(@"Inside Sub Branch Added");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
